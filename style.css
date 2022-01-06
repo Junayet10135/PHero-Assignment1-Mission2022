@@ -29,6 +29,7 @@ p{
     font-family: 'Roboto Slab',
     serif;
     font-size: 14px;
+    
 }
 #year{
     color: mediumvioletred;
@@ -57,11 +58,12 @@ margin-left: 5%;
 }
 .button {
     text-decoration: none;
-    background-image: linear-gradient(rgb(228, 126, 95), rgb(238, 171, 71));
+    background-image: linear-gradient(orange, tomato);
     color: white;
     font-weight: bold;
-    padding: 10px 40px;
+    padding: 15px 45px;
     border-radius: 5px;
+    margin-top: 5px;
     
 }
 .my-pic{
